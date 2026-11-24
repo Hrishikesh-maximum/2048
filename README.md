@@ -96,7 +96,8 @@ npm run build
 Generates optimized, minified production assets in the `dist/` directory.
 
 ---
-
+### WEBSITE
+---
 ## 📁 Project Structure
 
 ```
