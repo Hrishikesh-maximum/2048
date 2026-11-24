@@ -97,7 +97,7 @@ Generates optimized, minified production assets in the `dist/` directory.
 
 ---
 ### WEBSITE
--open `http://2048-snowy-tau.vercel.app` to play
+- open `http://2048-snowy-tau.vercel.app` to play
 
 ---
 ## 📁 Project Structure
