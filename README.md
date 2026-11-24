@@ -1,11 +1,3 @@
-# 2048 - Modern Number Puzzle Game
-
-A sleek, modern, and responsive **2048 Number Puzzle Game** built with **React 19**, **TypeScript**, and **Tailwind CSS**.
-
-![2048 Preview](public/favicon.svg)
-
----
-
 ## 🎮 Features
 
 ### 1. Game Mechanics
