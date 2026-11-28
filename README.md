@@ -97,7 +97,7 @@ Generates optimized, minified production assets in the `dist/` directory.
 
 ---
 ### WEBSITE
-http://2048-snowy-tau.vercel.app
+http://2048-game-soulbeast.vercel.app
 
 ---
 ## 📁 Project Structure
